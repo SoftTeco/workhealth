@@ -17,12 +17,12 @@ Developed by [SoftTeco](https://softteco.com) and [Kanda Software](https://www.k
 
 # Contact information
 ![image](SoftTeco.png)
-<info@softteco.com>
+- <info@softteco.com>
 
 
 
 ![image](Kanda.png)
-<contact@kandasoft.com>
+- <contact@kandasoft.com>
 
 # License
 This code is distributed under the terms and conditions of the [MIT](LICENSE)
