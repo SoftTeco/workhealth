@@ -19,8 +19,6 @@ Developed by [SoftTeco](https://softteco.com) and [Kanda Software](https://www.k
 ![image](SoftTeco.png)
 - https://softteco.com
 - <info@softteco.com>
-
-<br>
 <br>
 <br>
 
