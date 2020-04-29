@@ -17,12 +17,15 @@ Developed by [SoftTeco](https://softteco.com) and [Kanda Software](https://www.k
 
 # Contact information
 ![image](SoftTeco.png)
-- https://softteco.com
-- <info@softteco.com>
+<br>
+https://softteco.com
+<br>
+<info@softteco.com>
 <br>
 <br>
 
 ![image](Kanda.png)
+<br>
  https://www.kandasoft.com
 <br>
 <contact@kandasoft.com>
