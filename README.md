@@ -23,8 +23,9 @@ Developed by [SoftTeco](https://softteco.com) and [Kanda Software](https://www.k
 <br>
 
 ![image](Kanda.png)
-- https://www.kandasoft.com
-- <contact@kandasoft.com>
+ https://www.kandasoft.com
+<br>
+<contact@kandasoft.com>
 
 # License
 This code is distributed under the terms and conditions of the [MIT](LICENSE)
